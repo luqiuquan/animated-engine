@@ -29,7 +29,7 @@
      "searchable":1,
      "quickSearch":1,
      "filterable":0,
-     "ext":"https://wds.cxoip.com/215484.json"
+     "ext":"https://cdn.jsdelivr.net/gh/luqiuquan/animated-engine@main/onediany.jason"
     },
 
 
@@ -4456,4 +4456,3 @@
     "cms.qdwght.com"
   ]
 }
-
